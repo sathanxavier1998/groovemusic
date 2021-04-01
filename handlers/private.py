@@ -21,10 +21,10 @@ COMMANDS
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/zyrus-basi/vc_heroku"
+                        "OUR MOVIE CHANNEL", url="https://t.me/cinemaathattakam_channel"
                     ),
                     InlineKeyboardButton(
-                        "GROUP", url="https://t.me/uniedbotsupport"
+                        "GROUP", url="https://t.me/paattuppetti"
                     )
                 ]
             ]
