@@ -13,6 +13,6 @@ API_HASH = 3f6835286b03e000ab6d71b37cc35b92
 
 DURATION_LIMIT = 7
 
-COMMAND_PREFI("/ !").split()))
+COMMAND_PREFIXES = ("/ !").split()))
 
 SUDO_USERS = ("6047510747", "1745047302").split()))
