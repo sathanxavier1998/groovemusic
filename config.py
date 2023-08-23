@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-SESSION_NAME = 
+SESSION_NAME = session
 BOT_TOKEN = 2007532918:AAGY19hJZ9voMcUzra2JamqJqs5_wc8Rv3w
 BOT_NAME = вαтмαи
 
